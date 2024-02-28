@@ -1,3 +1,7 @@
+# Sofia Dillhoff
+# 2/27/24
+# Computer Security HW 2 - DES decryption algorithm
+
 from Crypto.Cipher import DES
 from Crypto.Util.Padding import pad
 
